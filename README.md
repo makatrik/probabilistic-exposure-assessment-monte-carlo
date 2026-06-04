@@ -3,6 +3,4 @@ A custom-made R script was developed to estimate probabilistic oral human exposu
 
 The code was used to estimate probabilistc human exposure to mycotoxins and has been published at Food and Chemical Toxicology,
 'Exploring the Relationship between Daily Intake and Renal Excretion of the Mycotoxins T-2 and HT-2 Toxin in Humans' 
-Authors:Hannah P. McKeon1*, Rudolf Hoogenveen1, Marta M. Sopel2, Marloes A. A. Schepens1, Marcel J. B. Mengelers1, Annick D. van den Brand1, Judith A. de Heer1, Anne Lise Brantsæter3, Maria Kalyva3, Trine Husøy3' 
-
-DOI: 10.1016/j.fct.2025.115491
+Authors:Hannah P. McKeon1*, Rudolf Hoogenveen1, Marta M. Sopel2, Marloes A. A. Schepens1, Marcel J. B. Mengelers1, Annick D. van den Brand1, Judith A. de Heer1, Anne Lise Brantsæter3, Maria Kalyva3, Trine Husøy3'  DOI: 10.1016/j.fct.2025.115491
